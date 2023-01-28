@@ -1,15 +1,14 @@
-Skrypt który pozwala na podskakiwanie pojazdem.
+Skrypt, który pozwala na podskakiwanie pojazdem.
 
-Ewentualne poprawki zmiany / aktualizacje na prośbę 
+Ewentualne poprawki, zmiany lub aktualizacje na prośbę.
 
-Funkcje do edycji
-Możliwość wyłaczenia włączenia powiadomień {tak}
-Możliwość Edycji wysokosci skoku {tak}
-Możliwość Edycji czasu od skoku do skoku {Tak}
+Funkcje do edycji:
 
-Planowane Funkcje:
-Brak
+Możliwość wyłączenia/włączenia powiadomień (tak)
+Możliwość edycji wysokości skoku (tak)
+Możliwość edycji czasu od skoku do skoku (tak)
+Planowane funkcje: brak
 
-Zależności: BRAK
+Zależności: brak
 
 Wersja 0.1
